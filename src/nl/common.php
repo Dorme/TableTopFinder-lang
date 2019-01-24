@@ -21,7 +21,7 @@ return [
     ],
 
     'age' => 'leeftijd',
-    'artist' => 'artist|artisten',
+    'artist' => 'artiest|artiesten',
     'boardgame' => 'bordspel|bordspellen',
     'browse' => 'bladeren',
     'by' => 'door',
